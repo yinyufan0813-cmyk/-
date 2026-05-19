@@ -1,0 +1,9 @@
+{
+  "name": "public-apis",
+  "repository_full_name": "public-apis/public-apis",
+  "clone_url": "https://github.com/public-apis/public-apis.git",
+  "default_branch": "master",
+  "workspace_path": "external/public-apis/repo",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "loaded_by": "sync-public-apis scripts"
+}
